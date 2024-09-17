@@ -1,0 +1,40 @@
+Test suite hw01-test: RUNNING...
+
+Test
+  or
+    tru_tru [✔]
+    tru_fls [✔]
+    fls_tru [✔]
+    fls_fls [✔]
+  and
+    tru_tru [✔]
+    tru_fls [✔]
+    fls_tru [✔]
+    fls_fls [✔]
+  or
+    tru [✔]
+    fls [✔]
+  isZero
+    test_0 [✔]
+  church
+    test_0 [✔]
+  suc
+    test_0 [✔]
+  plus
+    test_0 [✔]
+  mult
+    test_0 [✔]
+  pow
+    test_0 [✔]
+  divides3
+    ini [✔]
+    is_tru_fls [✔]
+    swap [✔]
+    divides3 [✔]
+  pred
+    test_0 [✔]
+
+Finished in 0.0010 seconds
+21 examples, 0 failures
+Test suite hw01-test: PASS
+Test suite logged to: /Users/dev.daniil.bakushkin/Desktop/itmo/haskell/easy/1/hw/hw01/dist-newstyle/build/aarch64-osx/ghc-9.8.2/hw01-0.1.0.0/t/hw01-test/test/hw01-0.1.0.0-hw01-test.log
